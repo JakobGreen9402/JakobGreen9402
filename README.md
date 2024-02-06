@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JakobGreen9402
 - 👀 I’m interested in Web Development(Front-End)
 - 🤓 Im Proficient in HTML, CSS, and JavaScript
-- 🌱 I’m currently learning React(In-Progress), React Native, Angular, Vue, Vite, Svelt +more 
+- 🌱 I’m currently learning React(In-Progress), and TypeScript(In-Progress)
 - 📫 How to reach me jakoblgreen1@gmail.com
 
 <!---
